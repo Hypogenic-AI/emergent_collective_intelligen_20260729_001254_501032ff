@@ -1,0 +1,14 @@
+{
+  "success": false,
+  "stages": {
+    "resource_finder": {
+      "success": false,
+      "completion_marker": null,
+      "outputs": {},
+      "log_file": "/workspaces/emergent_collective_intelligen_20260729_001254_501032ff/logs/resource_finder_gemini.log",
+      "transcript_file": "/workspaces/emergent_collective_intelligen_20260729_001254_501032ff/logs/resource_finder_gemini_transcript.jsonl",
+      "elapsed_time": 2.9960761070251465
+    }
+  },
+  "work_dir": "/workspaces/emergent_collective_intelligen_20260729_001254_501032ff"
+}
